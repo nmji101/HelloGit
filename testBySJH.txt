@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdsadasdsadsadasdasd
+=======
+asdasdasd 10:42
+>>>>>>> a0c314ebd95c0297a6b9d79f4ef552ae53fbae37
